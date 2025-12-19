@@ -28,3 +28,14 @@ Install dependencies:
 ```bash
 pip install requests beautifulsoup4
 ```
+
+### File Structure:
+```text
+project-directory/
+│
+├── downloadXkcdComics.py
+└── xkcd/
+    ├── comic1.png
+    ├── comic2.png
+    └── ...
+```
